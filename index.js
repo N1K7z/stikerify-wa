@@ -1,0 +1,13 @@
+const ascii = `
+
+  ▗▄▄▖ ■  ▄ █  ▄ ▗▞▀▚▖ ▄▄▄ ▄ ▗▞▀▀▘▄   ▄
+ ▐▌ ▗▄▟▙▄▖▄ █▄▀  ▐▛▀▀▘█    ▄ ▐▌   █   █
+  ▝▀▚▖▐▌  █ █ ▀▄ ▝▚▄▄▖█    █ ▐▛▀▘  ▀▀▀█
+ ▗▄▄▞▘▐▌  █ █  █           █ ▐▌   ▄   █
+      ▐▌                           ▀▀▀
+`;
+
+const { client } = require("./bot");
+
+console.log(ascii);
+console.log("Memulai stikerify... harap tunggu");
